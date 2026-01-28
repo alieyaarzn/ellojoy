@@ -42,25 +42,25 @@ revealEls.forEach(el => io.observe(el));
 ========================= */
 const products = {
   flavour: [
-    ["Strawberry","Manis masam segar","39","strawberry.png"],
-    ["Soya","Lemak ringan","39","soya bean.png"],
-    ["Pineapple","Tropika masam manis","39","pineapple.png"],
-    ["Watermelon","Ringan & segar","39","watermelon.png"],
-    ["Teh O Ais Limau","Teh klasik","39","teh o ais limau.png"],
-    ["Lychee","Manis wangi","39","lychee.png"],
-    ["Mango","Mangga berkrim","39","mango.png"],
-    ["Grape","Manis anggur","39","grape.png"],
-    ["Guava","Jambu segar","39","pink guava.png"],
-    ["Honey Lemon","Masam manis","39","honey lemon.png"],
-    ["Limau Ais","Asam menyegarkan","39","limau ais.png"],
-    ["Peach","Fruity lembut","39","peach.png"],
-    ["Apple","Epal segar","39","apple.png"],
-    ["Honeydew","Manis melon","39","honeydew.png"],
-    ["Caribbean Coffee","Aroma kopi tropika","39","caribbean coffee.png"],
-    ["Cola Soda","Soda klasik","39","cola soda.png"]
+    ["Strawberry","Manis masam segar","39","STRAWBERRY.png"],
+    ["Soya","Lemak ringan","39","SOYA BEAN.png"],
+    ["Pineapple","Tropika masam manis","39","PINEAPPLE.png"],
+    ["Watermelon","Ringan & segar","39","WATERMELON.png"],
+    ["Teh O Ais Limau","Teh klasik","39","TEH O AIS LIMAU.png"],
+    ["Lychee","Manis wangi","39","LYCHEE.png"],
+    ["Mango","Mangga berkrim","39","MANGO.png"],
+    ["Grape","Manis anggur","39","GRAPE.png"],
+    ["Guava","Jambu segar","39","PINK GUAVA.png"],
+    ["Honey Lemon","Masam manis","39","HONEY LEMON.png"],
+    ["Limau Ais","Asam menyegarkan","39","LIMAU AIS.png"],
+    ["Peach","Fruity lembut","39","PEACH.png"],
+    ["Apple","Epal segar","39","APPLE.png"],
+    ["Honeydew","Manis melon","39","HONEYDEW.png"],
+    ["Caribbean Coffee","Aroma kopi tropika","39","CARIBBEAN COFFEE.png"],
+    ["Cola Soda","Soda klasik","39","COLA SODA.png"]
   ],
-  monkfruit: [["Monk Fruit Extract","Manis semula jadi","39","monk fruit.png"]],
-  sucralose: [["Original","Manis neutral tanpa kalori","39","sucralose.png"]],
+  monkfruit: [["Monk Fruit Extract","Manis semula jadi","39","MONK FRUIT.png"]],
+  sucralose: [["Original","Manis neutral tanpa kalori","39","SUCRALOSE.png"]],
   fury: [
     ["Original","Tenaga bersih","39","zg fury original.png"],
     ["Mango Strawberry","Masam manis bertenaga","39","zg fury mangostrawberry.png"],
@@ -72,7 +72,7 @@ const products = {
     ["Rose Mare Coffee","Kopi wanita","39","rose mare.png"],
     ["Ener Choc","Coklat tenaga","39","ener choc.png"]
   ],
-  aromedix: [["Minyak Aromedix","Herba semula jadi","39","aromedix.jpg"]]
+  aromedix: [["Minyak Aromedix","Herba semula jadi","39","aromedix.JPG"]]
 };
 
 function cardHTML(p){
