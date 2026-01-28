@@ -62,7 +62,7 @@ const products = {
   monkfruit: [["Monk Fruit Extract","Manis semula jadi","39","MONK FRUIT.png"]],
   sucralose: [["Original","Manis neutral tanpa kalori","39","SUCRALOSE.png"]],
   fury: [
-    ["Original","Tenaga bersih","39","ZG FURY ORIGINAL.png"],
+    ["Original","Tenaga bersih","39","zg fury original.png"],
     ["Mango Strawberry","Masam manis bertenaga","39","zg fury mangostrawberry.png"],
     ["Blackcurrant","Berry masam","39","zg fury blackcurrant.png"],
     ["Apple Asam Boi","Masam unik","39","zg fury asamboi.png"]
